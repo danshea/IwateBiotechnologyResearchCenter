@@ -7,3 +7,4 @@ Performing genome-wide analyses on 3000+ recombinant inbred lines (RILs) derived
 
 Mostly statistical inference analysis in these scripts. I tried using scipy.stats and statsmodels since conversion of VCF to pandas dataframes allows me to ssh tunnel to my workstation and run everything in jupyter notebooks.
 
+Within the notebooks markdown cells are included that go over various aspects of what the analysis is trying to accomplish. Where appropriate, I've tried to add some images (basically slides exported as `png` files from Google slides).
